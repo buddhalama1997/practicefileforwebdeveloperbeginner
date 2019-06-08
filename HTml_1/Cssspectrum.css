@@ -1,0 +1,33 @@
+h1{
+    font-family: 'Ruge Boogie', cursive;
+    text-align: center;
+}
+/* thead.a{
+    border: 10 px strong white;
+    background-color: #247BA0;
+    height: 10px;
+} */
+.art{
+    margin: auto;
+}
+td{
+background-color: black;
+height: 200px;
+width: 100px;
+border: 10px solid white;
+}
+#a{
+    background-color: #247BA0;
+}
+#b{
+    background-color: #70C1B3;
+}
+#c{
+    background-color: #B2DBBF;
+}
+#d{
+    background-color: #F3FFBD;
+}
+#e{
+    background-color: #FF1654;
+}

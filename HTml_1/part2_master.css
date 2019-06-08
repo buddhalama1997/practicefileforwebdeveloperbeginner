@@ -1,0 +1,16 @@
+body{
+    background: url(https://talksport.com/wp-content/uploads/sites/5/2019/06/GettyImages-1152649974.jpg?strip=all&w=960&quality=100)
+}
+div{
+    background-color: rgb(53, 124, 124);
+    border-width: 10px;
+    border-style: double;
+    border-color: black;
+}
+p{
+    color: rgb(67, 161, 67);
+}
+span{
+    color: #000;
+    background-color: chartreuse;
+}

@@ -1,0 +1,17 @@
+div.firstDiv{
+    color: aqua;
+}
+#singleout{
+    color: aquamarine;
+    text-decoration: line-through;
+}
+h3 + ul{
+    border: 5px dotted palegreen;
+}
+li a{
+    color: red;
+}
+li a[href="www.python.org"]{
+    color: brown;
+    border: 4px solid orange;
+}

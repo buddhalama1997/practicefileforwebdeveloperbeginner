@@ -1,0 +1,42 @@
+.signform{
+    text-align: center;
+}
+div{
+    background-color: blue;
+    border: 10px blue;
+    margin: 20px;
+}
+body{
+    background-color: skyblue;
+}
+label{
+    color: white;
+    margin: 10px;
+}
+h1{
+    text-align: center;
+    color: white;
+    padding: 50px;
+}
+h2{
+    text-align: center;
+    color: white;
+    padding: 40px;
+}
+p{
+    text-align: center;
+    color: white;
+}
+.sign{
+    text-align: center;
+    color:white;
+    background-color: orange;
+    font-family: 'Times New Roman', Times, serif;
+    font-size: 16px;
+    margin: 5px;
+    border-radius: 25px;
+}
+.first{
+    font-family: 'Ruge Boogie', cursive;
+    padding: 50px;
+}
